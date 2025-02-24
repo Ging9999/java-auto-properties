@@ -1,3 +1,5 @@
+### this is currently broken, as of my 24/02/2025 the compiler doesnt correctly run this code and just spits out errors. This might be a personal IDE problem 
+
 
 # AutoProperty Annotation Processor for Java
 
@@ -36,4 +38,4 @@ public class Person {
 
 
 
-### this is currently broken, as of my 24/02/2025 the compiler doesnt correctly run this code and just spits out errors. This might be a personal IDE problem 
+
