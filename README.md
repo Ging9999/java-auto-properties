@@ -33,3 +33,7 @@ public class Person {
     // The annotation processor will generate getter and setter methods for the above fields
 }
 
+
+
+
+### this is currently broken, as of my 24/02/2025 the compiler doesnt correctly run this code and just spits out errors. This might be a personal IDE problem 
